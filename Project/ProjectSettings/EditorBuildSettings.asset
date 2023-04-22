@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: e9ced74d92165b246a1729229a782bb5
   - enabled: 1
-    path: Assets/Ronnie/Block_out.unity
+    path: Assets/Benson/Levels/Block_out.unity
     guid: 5801829a4389d7e4cbef0facd2450b92
   - enabled: 1
-    path: Assets/Scenes/Demo_Scene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Benson/Levels/LvL_2.unity
+    guid: 59c388e09486a6843abef5021b4e58a4
+  - enabled: 1
+    path: Assets/Scenes/EndMenu.unity
+    guid: 648f69877b00bbc45a3028f3c892b6ff
   m_configObjects: {}
